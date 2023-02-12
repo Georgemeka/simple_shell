@@ -1,3 +1,2 @@
-Readme file for C programming language
-# simple_shell
-# Simple_shell repository
+# Simple_shell
+ Application that replicates a typical simple shell program
